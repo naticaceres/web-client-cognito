@@ -1,0 +1,12 @@
+{
+  "cognito": {
+    "REGION": "CHANGE_ME",
+    "USER_POOL_ID": "CHANGE_ME",
+    "IDENTITY_POOL_ID": "CHANGE_ME",
+    "APP_CLIENT_ID": "CHANGE_ME"
+  },
+  "apiGateway": {
+    "URL": "CHANGE_ME",
+    "REGION": "CHANGE_ME"
+  }
+}
